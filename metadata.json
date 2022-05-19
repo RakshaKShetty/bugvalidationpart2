@@ -3,15 +3,43 @@
   "serverSchemaVersion": 4,
   "pageOrder": [
     "Page1",
-    "Public.users"
+    "Public.users",
+    "Page2",
+    "Public.users Copy"
   ],
   "publishedPageOrder": [
     "Page1",
-    "Public.users"
+    "Public.users",
+    "Page2",
+    "Public.users Copy"
   ],
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
   "invisibleActionFields": {
+    "Page2_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page2_JSObject1.myFun2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Public.users Copy_DeleteQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Public.users Copy_InsertQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Public.users Copy_SelectQuery": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "Public.users Copy_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "Public.users_DeleteQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
